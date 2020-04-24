@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <title>11</title>
+    <style>
+        canvas {
+            border: 1px solid #d3d3d3;
+            background-color: #6b7278;
+        }
+    </style>
+</head>
+
+<body onload="startGame()">
+
+<p id="newbest"></p>
+
+
+    <script>
+        var myCar;
+        var otherCars = [];
+        var myScore;
+        var myName;
+
+        var width = 660;
+        var height = 330;
+
+        var myCar_width = 20;
+        var myCar_height = 80;
+        var myCar_speed = 3;
+
+        var startX = width / 2 - myCar_width / 2;
+        var startY = height - myCar_height;
+
+        var otherCars_width = 20;
+        var otherCars_height = 50;
+        var otherCars_speed = 4;
+
+        var name = document.getElementById('name').value;
+        var score = document.getElementById('score').value;
+        var best = document.getElementById('best').value;
+
+        console.log(name);
+        console.log(score);
+        console.log(best);
+
+
+        function startGame() {
+            myCar_width = 20;
+            myCar_height = 80;
+            myCar_speed = 3;
+
+            startX = width / 2 - myCar_width / 2;
+            startY = height - myCar_height;
+
+            otherCars_width = 20;
+            otherCars_height = 50;
+            otherCars_speed = 3;
+
+            //background = new component(660, 330, "backgeound.jpg", 0, 0, "image");
+            myCar = new component(myCar_width, myCar_height, "img/myCar.png", startX, startY, "image");
+            myScore = new component("15px", "Consolas", "black", 530, 40, "text");
+            myName = new component("15px", "Consolas", "black", 20, 40, "text");
+
+            myGameArea.start();
+        }
+
+        var myGameArea = {
+            canvas: document.createElement("canvas"),
+            start: function () {
+                this.canvas.width = width;
+                this.canvas.height = height;
+                this.context = this.canvas.getContext("2d");
+                document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+                this.frameNo = 0;
+                this.interval = setInterval(updateGameArea, 30);
+                window.addEventListener('keydown', function (e) {
+                    myGameArea.keys = (myGameArea.keys || []);
+                    myGameArea.keys[e.keyCode] = true;
+                })
+                window.addEventListener('keyup', function (e) {
+                    myGameArea.keys[e.keyCode] = false;
+                })
+                window.addEventListener('keydown', function (e) {
+                    myGameArea.key = e.keyCode;
+                })
+                window.addEventListener('keyup', function (e) {
+                    myGameArea.key = false;
+                })
+            },
+            clear: function () {
+                this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+            },
+            stop: function () {
+                clearInterval(this.interval);
+            }
+        }
+
+        function component(width, height, color, x, y, type) {
+            this.type = type;
+            if (type == "image") {
+                this.image = new Image();
+                this.image.src = color;
+            }
+            this.score = 0;
+            this.width = width;
+            this.height = height;
+            this.speedX = 0;
+            this.speedY = 0;
+            this.x = x;
+            this.y = y;
+            this.gravity = 0;
+            this.gravitySpeed = 0;
+            this.update = function () {
+                ctx = myGameArea.context;
+
+                if (type == "image") {
+                    ctx.drawImage(this.image,
+                        this.x,
+                        this.y,
+                        this.width, this.height);
+                } else if (this.type == "text") {
+                    ctx.font = this.width + " " + this.height;
+                    ctx.fillStyle = color;
+                    ctx.fillText(this.text, this.x, this.y);
+                } else {
+                    ctx.fillStyle = color;
+                    ctx.fillRect(this.x, this.y, this.width, this.height);
+                }
+            }
+            this.newPos = function () {
+                this.x += this.speedX;
+                this.y += this.speedY;
+            }
+
+            this.crashWith = function (otherobj) {
+                var myleft = this.x;
+                var myright = this.x + (this.width);
+                var mytop = this.y;
+                var mybottom = this.y + (this.height);
+                var otherleft = otherobj.x;
+                var otherright = otherobj.x + (otherobj.width);
+                var othertop = otherobj.y;
+                var otherbottom = otherobj.y + (otherobj.height);
+                var crash = true;
+                if ((mybottom < othertop) || (mytop > otherbottom) || (myright < otherleft) || (myleft >
+                    otherright)) {
+                    crash = false;
+                }
+                return crash;
+            }
+        }
+
+        function updateGameArea() {
+            var x, y, chance;
+            var input = "";
+            for (i = 0; i < otherCars.length; i += 1) {
+                if (myCar.crashWith(otherCars[i])) {
+                    ctx.font = "30px Comic Sans MS";
+                    ctx.fillStyle = "red";
+                    ctx.textAlign = "center";
+                    ctx.fillText("Vereség", width / 2, height / 2);
+                    score = Math.floor(myGameArea.frameNo);
+                    if (score > best) {
+                        best = score;
+                        // input += '<input type="hidden" name="nb" id="nb" value="' + best + '">';
+                        // console.log(document.getElementById("nb").value);
+                    }
+
+                    // input += '<input type="hidden" name="name" id="name" value="'+name+'">';
+                    // input += '<input type="hidden" name="score" id="score" value="'+score+'">';
+                    // input += '<input type="hidden" name="best" id="best" value="'+best+'">';
+                    // input += '<input type="hidden" name="nb" id="nb" value="' + best + '">';
+                    // input += '<input type="hidden" name="res" id="res" value="true">';
+                    // input += '<input type="submit" value="Új játék">';
+                    document.getElementById("restart").innerHTML = input;
+                    myGameArea.stop();
+                    return;
+                }
+            }
+            myGameArea.clear();
+            myGameArea.frameNo += 1 / 30;
+            chance = Math.floor(Math.random() * 100);
+            if (chance <= 5) {
+                x = Math.floor(Math.random() * width);
+                y = 0;
+
+                otherCars.push(new component(otherCars_width, otherCars_height, "img/otherCars.png", x, y, "image"));
+            }
+            for (i = 0; i < otherCars.length; i += 1) {
+                otherCars[i].y += otherCars_speed;
+                //background.update();
+                otherCars[i].update();
+            }
+
+            myCar.speedX = 0;
+            myCar.speedY = 0;
+
+            if (myGameArea.keys && myGameArea.keys[65]) {
+                myCar.speedX = -myCar_speed;
+            }
+            if (myGameArea.keys && myGameArea.keys[68]) {
+                myCar.speedX = myCar_speed;
+            }
+
+            if (myGameArea.key && myGameArea.key == 83) {
+                otherCars_speed>1 ? otherCars_speed-- : otherCars_speed;
+            }
+            if (myGameArea.key && myGameArea.key == 87) {
+                otherCars_speed++;
+            }
+
+            myScore.text = "PONT: " + Math.floor(myGameArea.frameNo) + "(" + best + ")";
+            myName.text = "Játékos: " + name;
+            //background.update();
+            myScore.update();
+            myName.update();
+            myCar.newPos();
+            myCar.update();
+        }
+
+        
+    </script>
+    <p>Irányítás: <br>
+        A (balra) <br>
+        D (jobbra) <br>
+        W (forgalom gyorsítás) <br>
+        S (forgalom lassítás) <br>
+    </p>
+    <p>
+    <a href="start.html"><input type="submit" value="Új játék"></a>
+    </p>
+
+
+
+</body>
+
+</html>
