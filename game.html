@@ -83,12 +83,6 @@
                 window.addEventListener('keyup', function (e) {
                     myGameArea.keys[e.keyCode] = false;
                 })
-                window.addEventListener('keydown', function (e) {
-                    myGameArea.key = e.keyCode;
-                })
-                window.addEventListener('keyup', function (e) {
-                    myGameArea.key = false;
-                })
             },
             clear: function () {
                 this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
@@ -183,7 +177,7 @@
             myGameArea.clear();
             myGameArea.frameNo += 1 / 30;
             chance = Math.floor(Math.random() * 100);
-            if (chance <= 5) {
+            if (chance <= 15) {
                 x = Math.floor(Math.random() * width);
                 y = 0;
 
@@ -205,11 +199,11 @@
                 myCar.speedX = myCar_speed;
             }
 
-            if (myGameArea.key && myGameArea.key == 83) {
-                otherCars_speed>1 ? otherCars_speed-- : otherCars_speed;
+            if (myGameArea.keys && myGameArea.keys[83]) {
+                otherCars_speed>1 ? otherCars_speed-=0.4 : otherCars_speed;
             }
-            if (myGameArea.key && myGameArea.key == 87) {
-                otherCars_speed++;
+            if (myGameArea.keys && myGameArea.keys[87]) {
+                otherCars_speed+=0.2;
             }
 
             myScore.text = "PONT: " + Math.floor(myGameArea.frameNo);
@@ -226,8 +220,8 @@
     <p>Irányítás: <br>
         A (balra) <br>
         D (jobbra) <br>
-        W (forgalom gyorsítás) <br>
-        S (forgalom lassítás) <br>
+        W (gyorsítás) <br>
+        S (lassítás) <br>
     </p>
     <p>
     <a href="game.html"><input type="submit" value="Új játék"></a>
