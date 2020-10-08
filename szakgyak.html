@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>Szakgyak</title>
     <!-- Compiled and minified CSS -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -41,26 +43,42 @@
 
 <body onload="ehh()">
     <div onclick="ehh()"></div>
-    <nav>
-        <div class="nav-wrapper light-blue accent-4">
-            
-            <ul class="left hide-on-med-and-down">
-                <li><a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('all');">Összes</a></li>
-                <li> <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a></li>
-                <li> <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GK');">GK</a></li>
-                <li> <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MK');">MK</a></li>
-                <li> <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a></li>
-                <li> <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a></li>
-            </ul>
-        </div>
-    </nav>
+    
+
+    <table class="nav-wrapper light-blue accent-4" style="margin: 0px; padding: 0px; margin-top: 0px;">
+                <tr>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('all');">Összes</a>
+                    </th>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a>
+
+                    </th>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GK');">GK</a>
+
+                    </th>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MK');">MK</a>
+
+                    </th>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a>
+
+                    </th>
+                    <th>
+                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a>
+
+                    </th>
+                </tr>
+    </table>
         
         
         
     
 
 
-    <table class="responsive-table striped" id="f0"></table>
+    <table class="striped" id="f0"></table>
 
 </body>
 
