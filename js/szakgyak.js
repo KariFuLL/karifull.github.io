@@ -33,22 +33,19 @@ txtFile.onreadystatechange = function () {
             }
 
             var customTextElement2 = document.getElementById('f0');
-            //customTextElement2.innerHTML = str;
+            customTextElement2.innerHTML = str;
         }
     }
 }
 txtFile.send(null);
 
+function ehh() {
+ kiir('all')
 
-for (let i = 0; i < gyakArray.length; i++) {
-
-    str += '<tr><td>' + gyakArray[i].cegnev + '</td><td>' +
-        gyakArray[i].szerz1 + '</td><td>' + gyakArray[i].szerz2 + '</td><td>' + gyakArray[i].kar + '</td></tr>';
-    console.log("Hozzáadva");
+    customTextElement2 = document.getElementById('f0');
+    customTextElement2.innerHTML = str;
 }
 
-customTextElement2 = document.getElementById('f0');
-customTextElement2.innerHTML = str;
 
 function kiir(kar) {
     var str = '<tr><th>Cégnév</th><th>Együttműködési szerződés dátuma </th><th>Kiegészítő szerződés dátuma </th><th>Kar </th></tr>';
