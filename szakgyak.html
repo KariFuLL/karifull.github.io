@@ -36,6 +36,9 @@
         padding-bottom: 20px;
 
         }
+        a {
+            width: 90px;
+        }
     </style>
 
 
@@ -43,42 +46,49 @@
 
 <body onload="ehh()">
     <div onclick="ehh()"></div>
-    
+    <div class="nav-wrapper light-blue accent-4 ">
+        
+            
+            
+                <table class="center-align"
+                    style="margin: 0px; padding: 0px; margin-top: 0px;">
+                    <tr>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4 center"
+                                onclick="kiir('all');">Összes</a>
+                        </th>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a>
 
-    <table class="nav-wrapper centered light-blue accent-4" style="margin: 0px; padding: 0px; margin-top: 0px; width: 100%;">
-                <tr>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('all');">Összes</a>
-                    </th>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a>
+                        </th>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GK');">GK</a>
 
-                    </th>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GK');">GK</a>
+                        </th>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MK');">MK</a>
 
-                    </th>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MK');">MK</a>
+                        </th>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a>
 
-                    </th>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a>
+                        </th>
+                        <th class="center-align">
+                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a>
 
-                    </th>
-                    <th style="width: 13%; padding-left: 3%;">
-                <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a>
-
-                    </th>
-                </tr>
-    </table>
+                        </th>
+                    </tr>
+                </table>
+            
+     
         
         
-        
-    
+    </div>
+    <div class="container">
+        <!-- Page Content goes here -->
+        <table class="striped centered" id="f0"></table>
+    </div>
 
-
-    <table class="striped" id="f0"></table>
 
 </body>
 
