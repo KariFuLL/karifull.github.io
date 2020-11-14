@@ -1,46 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
-        html {
-            box-sizing: border-box;
-            margin: 0;
-            border: 0;
-            padding: 0;
-        }
 
-        body {
-            font-family: Quicksand;
-            font-size: 1.1em;
-            margin: 0;
-            border: 0;
-            padding: 0;
-        }
+html {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
 
-        *,
-        *:before,
-        *:after {
-            box-sizing: inherit;
-        }
+body {
+    font-family: Quicksand;
+    font-size: 1.1em;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
 
-        a {
-            width: 18vw;
-        }
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
 
-        table {
-            table-layout: fixed;
-            width: 100%;
-            margin: 0;
-            border: 0;
-            padding: 0;
-        }
+a {
+    width: 18vw;
+}
 
-        th,
-        td {
-            word-wrap: break-word;
-        }
+table {
+    table-layout: fixed;
+    width: 100%;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
 
-        .parent {
-            width: 100vw;
-            float: center;
-            margin: 0;
-            border: 0;
-            padding: 0;
-        }
+th,
+td {
+    word-wrap: break-word;
+}
+
+.parent {
+    width: 100vw;
+    float: center;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
