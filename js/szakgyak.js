@@ -1,8 +1,8 @@
 var txtFile = new XMLHttpRequest();
 var gyakArray = [];
 var temp;
-var str = '<tr class="center-align"><th class="center-align">Cégnév</th><th class="center-align">Együttműködési szerződés dátuma </th><th class="center-align">Kiegészítő szerződés dátuma </th><th class="center-align">Kar </th></tr>';
-txtFile.open("GET", "/docs/gyak_list.txt", true);
+var str = '<thead><tr class="center-align"><th class="center-align">Cégnév</th><th class="center-align">Együttműködési szerződés dátuma </th><th class="center-align">Kiegészítő szerződés dátuma </th><th class="center-align">Kar </th></tr></thead>';
+txtFile.open("GET", "./docs/gyak_list.txt", true);
 txtFile.onreadystatechange = function () {
     if (txtFile.readyState === 4) { // Makes sure the document is ready to parse.
         if (txtFile.status === 200) { // Makes sure the file exists.
@@ -48,7 +48,7 @@ function ehh() {
 
 
 function kiir(kar) {
-    var str = '<tr class="center-align"><th class="center-align">Cégnév</th><th class="center-align">Együttműködési szerződés dátuma </th><th class="center-align">Kiegészítő szerződés dátuma </th><th class="center-align">Kar </th></tr>';
+    var str = '<thead><tr class="center-align"><th class="center-align">Cégnév</th><th class="center-align">Együttműködési szerződés dátuma </th><th class="center-align">Kiegészítő szerződés dátuma </th><th class="center-align">Kar </th></tr></thead>';
 
 
     for (let i = 0; i < gyakArray.length; i++) {

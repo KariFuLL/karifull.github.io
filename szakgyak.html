@@ -1,99 +1,69 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Szakgyak</title>
-    <!-- Compiled and minified CSS -->
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-  <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
-  <link rel="manifest" href="img/favicon/manifest.json">
+    <!-- Favicon-->
+    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/szakgyak_style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <script type="text/javascript" src="/js/szakgyak.js"></script>
-
-    <style>
-        body {
-        margin: 0px;
-        border: 0px;
-        padding: 0px;
-        padding-top: 0px;
-        padding-bottom: 0px;
-        width: 650px;        
-        }
-        div {
-            width: 100%;
-        }
-        table {
-        margin: 10px;
-        border: 0px;
-        padding: 5px;
-        padding-top: 15px;
-        padding-bottom: 20px;
-        width: 100%;
-        }
-        a {
-            width: 90px;
-        }
-    </style>
-
+    <script type="text/javascript" src="./js/szakgyak.js"></script>
 
 </head>
 
 <body onload="ehh()">
-    <div onclick="ehh()"></div>
-    <div class=" light-blue accent-4 ">
-                <table class="center-align"
-                    style="margin: 0px; padding: 0px; margin-top: 0px;">
-                    <tr>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4 center"
-                                onclick="kiir('all');">Összes</a>
-                        </th>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a>
 
-                        </th>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GK');">GK</a>
+    <div class="parent">
+        <div class=" light-blue accent-4">
+            <table class="center-align">
+                <tr>
+                    <th class="center-align">
+                        <a class="waves-effect waves-light btn light-blue darken-4 center"
+                            onclick="kiir('all');">All</a>
+                    </th>
+                    <th class="center-align">
+                        <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('GTK');">GTK</a>
 
-                        </th>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MK');">MK</a>
+                    </th>
+                    <th class="center-align">
+                        <a class="waves-effect waves-light btn light-blue darken-4 " onclick="kiir('MK');">MK</a>
 
-                        </th>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a>
+                    </th>
+                    <th class="center-align">
+                        <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MFTK');">MFTK</a>
 
-                        </th>
-                        <th class="center-align">
-                            <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a>
+                    </th>
+                    <th class="center-align">
+                        <a class="waves-effect waves-light btn light-blue darken-4" onclick="kiir('MIK');">MIK</a>
 
-                        </th>
-                    </tr>
-                </table>
-            
-     
-        
-        
-    </div>
-    <div class="container">
-        <!-- Page Content goes here -->
+                    </th>
+                </tr>
+            </table>
+        </div>
         <table class="striped centered" id="f0"></table>
     </div>
 
