@@ -22,11 +22,16 @@ txtFile.onreadystatechange = function () {
                 } else if (sor[7] != " ") {
                     temp = "MIK";
                 }
-                gyakArray.push({ cegnev: sor[0], szerz1: sor[1], szerz2: sor[2], kar: temp })
+                gyakArray.push({
+                    cegnev: sor[0],
+                    szerz1: sor[1],
+                    szerz2: sor[2],
+                    kar: temp
+                })
 
             }
 
-            console.log(gyakArray);
+            //console.log(gyakArray);
 
             for (let i = 0; i < gyakArray.length; i++) {
                 str += '<tr><td>' + gyakArray[i].cegnev + '</td><td>' + gyakArray[i].szerz1 + '</td><td>' + gyakArray[i].szerz2 + '</td><td>' + gyakArray[i].kar + '</td></tr>';
@@ -40,7 +45,7 @@ txtFile.onreadystatechange = function () {
 txtFile.send(null);
 
 function ehh() {
- kiir('all')
+    kiir('all')
 
     customTextElement2 = document.getElementById('f0');
     customTextElement2.innerHTML = str;
@@ -52,19 +57,19 @@ function kiir(kar) {
 
 
     for (let i = 0; i < gyakArray.length; i++) {
-        console.log(kar + " " + gyakArray[i].kar + (kar == gyakArray[i].kar));
+        //console.log(kar + " " + gyakArray[i].kar + (kar == gyakArray[i].kar));
         if (kar != 'all') {
             if ((kar == gyakArray[i].kar)) {
                 str += '<tr><td>' + gyakArray[i].cegnev + '</td><td>' +
                     gyakArray[i].szerz1 + '</td><td>' + gyakArray[i].szerz2 + '</td><td>' + gyakArray[i].kar + '</td></tr>';
-                console.log("Hozzáadva");
+                //console.log("Hozzáadva");
             } else {
-                console.log("NEMJÓ");
+                //console.log("NEMJÓ");
             }
         } else {
             str += '<tr><td>' + gyakArray[i].cegnev + '</td><td>' +
                 gyakArray[i].szerz1 + '</td><td>' + gyakArray[i].szerz2 + '</td><td>' + gyakArray[i].kar + '</td></tr>';
-            console.log("Hozzáadva");
+            //console.log("Hozzáadva");
         }
 
     }
