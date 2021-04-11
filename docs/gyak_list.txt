@@ -11,6 +11,8 @@ Adient Mezőlak Kft.; 2020-02-11; 2020.03.01-04.30; ; ; ; ; √
 Admirál Kft.; 2014-06-16; ; √; ; ; ; 
 Adó-Computer Kft.; 2017-06-26; ; √; ; ; ; 
 ADÓCENT Kft.; 2020-01-16; ; √; ; ; ; 
+Adroit Group Kft.; 2021-01-26; 2021. 01. 29-07. 31.; ; ; ; ; √
+Adware Research Kft.; 2020-11-19; 2021. 03. 01-04. 30.; ; ; ; ; √
 AE-Plasztik Zrt.; 2019-02-01; ; √; ; ; ; 
 ÁEF Anyagvizsgáló Laboratórium Kft.; 2016-07-06; ; ; ; √; ; 
 Aeriu Smart Solutions Kft.; 2018-07-31; 2018.08.01-09.26; ; ; ; ; √
@@ -43,9 +45,10 @@ Angyaladó Kft.; 2016-01-14; ; √; ; ; ;
 Anna Grand Hotel Kft.; 2018-02-01; ; √; ; ; ; 
 ÁNZA BT; 2017-05-29; ; √; ; ; ; 
 ApPello Kft; 2017-06-01; 2017.06.13-12.31; ; ; ; ; √
+Appentum Kft.; 2021-01-22; 2021. 02. 01-05. 14.; ; ; ; ; √
 Apptive Kft.; 2020-06-29; 2020. 07. 14. - 08. 17.; ; ; ; ; √
 APY Kereskedelmi és Szolgáltató Kft; 2017-04-27; ; ; ; √; ; 
-AQ Anton Kft.; 2020-06-02; 2020.06.08.-2020.07.31.; ; ; ; ; √
+AQ Anton Kft.; 2020-06-02; 2020. 10. 05.-11. 06.; ; ; ; ; √
 AQ ANTON Kft.; 2017-02-20; ; ; ; √; ; 
 Aqua Natura Hotels Kft.; 2018-10-08; ; √; ; ; ; 
 Aquaworld Hotel és Élményfürdő Szolgáltató Zrt.; 2014-07-01; ; √; ; ; ; 
@@ -53,7 +56,7 @@ Aqueduct Kereskedelmi Kft.; 2020-02-18; 2020.02.24.-2020.04.24.; ; ; ; ; √
 Árbocfény Hajózási Korlátolt Felelősségű Társaság; 2018-04-12; ; √; ; ; ; 
 Arconic-Köfém Kft.; 2016-04-19; 2017.07.10-08.18; ; ; ; ; √
 Arconic-Köfém Kft.; 2017-01-20; ; √; ; ; ; 
-Aréna'99 Kft.; 2020-08-24; 2020. 09. 14.-12. 31.; ; ; ; ; √
+Aréna'99 Kft.; 2020-08-24; 2021. 01. 01-05. 31.; ; ; ; ; √
 ArgonSoft Kft.; 2017-03-20; 2017.03.20-12.31; ; ; ; ; √
 Ariadnelli Könyvelőiroda és Szolgáltató Kft.; 2016-01-15; ; √; ; ; ; 
 Armatech Erőműtechnika Kft.; 2019-06-18; ; ; ; √; ; 
@@ -69,6 +72,7 @@ Autóipari Próbapálya Zala Kft.; 2017-07-06; ; ; ; √; ;
 Autoliv Kft.; 2018-05-11; ; √; ; ; ; 
 Automatizalunk.hu Kft.; 2020-07-20; 2020. 07. 27. - 09. 07.; ; ; ; ; √
 Avius Kft; 2019-04-10; ; ; ; √; ; 
+Avius Kft.; 2020-09-14; 2020. 09. 14.-12. 30.; ; ; ; ; √
 B 1237 Kft.; 2016-02-22; ; √; ; ; ; 
 B&O Kft.; 2020-07-30; 2020. 08. 03. - 12. 31.; ; ; ; ; √
 BA-Logisztika Tanácsadó Kft.; 2020-01-20; 2020. 02. 01. - 04. 01.; ; ; ; ; √
@@ -82,6 +86,7 @@ Bakony Ipari Kerámia Kft.; 2016-07-11; ; √; ; ; ;
 Bakonyi Erőmű Zrt.; 2016-07-04; 2018.07.02-08.24; ; ; ; ; √
 BAKONYKARSZT Víz- és Csatornamű Zrt.; 2016-06-01; ; ; ; √; ; 
 BAKONYKARSZT Víz- és Csatornamű Zrt.; 2016-04-01; ; √; ; ; ; 
+BAKONYKARSZT Zrt.; 2020-07-10; 2020. 07. 13-09. 04.; ; ; ; ; √
 Bakonykarszt Zrt.; 2018-06-11; ; ; ; √; ; 
 Bakonykarszt Zrt.; 2020-01-29; ; √; ; ; ; 
 Balabit-Europe Kft.; 2019-07-02; 2019.08.01-12.31; ; ; ; ; √
@@ -148,7 +153,10 @@ Brilázs Könyvviteli és Szolgáltató Kft.; 2017-02-21; ; √; ; ; ;
 BROVAMA Vállalkozási Kft.; 2018-10-08; ; √; ; ; ; 
 BS Plastic Trade Kft.; 2019-07-11; ; ; ; √; ; 
 BSAN Könyvelő Iroda Kft.; 2014-12-01; ; √; ; ; ; 
+Budapest II. kerületi Polgármesteri Hivatal; 2021-02-04; 2021. 02. 15-04. 14.; ; ; ; ; √
 Budasensor Kft.; 2020-03-02; 2020. 03. 16. - 05. 31.; ; ; ; ; √
+Busch-Hungária Kft.; 2020-09-14; 2021. 01. 01-09. 01.; ; ; ; ; √
+Business Support Hungária Kft.; 2020-09-03; 2020. 09. 14-11. 30.; ; ; ; ; √
 Büki Fejlesztési és Beruházási Kft.; 2014-07-09; ; √; ; ; ; 
 Büttner és Társai Szerszámelemgyártó és Kereskedelmi Kft.; 2015-06-09; 2020.08.31.-2020.10.23.; ; ; ; ; √
 Cad-Cam Solutions Kft.; 2020-06-10; 2020. 07. 06. - 08. 28.; ; ; ; ; √
@@ -169,19 +177,22 @@ Chemark Zrt.; 2020-05-06; ; ; ; √; ;
 Chinoin Zrt.; 2015-05-28; ; ; ; √; ; 
 CIB Bank Zrt.; 2016-08-18; ; ; ; ; ; √
 CIB Bank Zrt.; 2019-03-21; ; √; ; ; ; 
+Citibank Europe plc. Magyarországi Fióktelepe; 2021-01-19; 2021. 02. 01-03. 14.; ; ; ; ; √
 CiToxLAB Hungary Kft.; 2015-06-26; ; ; ; √; ; 
 Club Eldorado Kft.; 2018-02-01; ; √; ; ; ; 
 Club Tihany Zrt.; 2015-03-15; ; √; ; ; ; 
 Code4Board Kft; 2018-05-07; 2020.01.27.-2020.05.08.; ; ; ; ; √
 Cogigate Games Kft.; 2017-02-20; 2020. 06. 24. - 08. 19.; ; ; ; ; √
 Coloplast Hungary Kft.; 2018-07-17; ; ; ; √; ; 
-Combit Számítástechnikai Zrt.; 2020-06-23; 2020. 07. 01. - 08. 31.; ; ; ; ; √
+Combit Számítástechnikai Zrt.; 2020-06-23; 2021. 01. 11-03. 31.; ; ; ; ; √
 ComInnex Zrt.; 2018-06-20; ; ; ; √; ; 
+Company Operation Management Kft.; 2020-12-14; 2021. 01. 04-05. 21.; ; ; ; ; √
 Compar-Plan Kft.; 2016-06-08; ; ; ; √; ; 
 Comtech Kft.; 2018-02-20; ; √; ; ; ; 
 Concretin Műgyanta Kft.; 2018-07-02; 2018.07.02-08.31; ; ; ; ; √
 Continental Automotive Hungary Kft.; 2014-07-01; 2020. 01. 01. - 12. 31.; ; ; ; ; √
 Continental Automotive Hungary Kft.; 2017-07-05; ; √; ; ; ; 
+Continental Automotive Hungary Kft.; 2021-01-01; 2021. 01. 01-12. 31.; ; ; ; ; √
 Controlsoft Automatika Szolgáltató Kft.; 2017-12-20; 2020.07.27-06.30; ; ; ; ; √
 CoreComm SI Kft.; 2020-05-21; ; ; ; √; ; 
 Corvin Hotel-ITH Kft.; 2018-12-10; ; √; ; ; ; 
@@ -256,6 +267,7 @@ Enter'93 Számítástechnikai Kft.; 2016-01-29; 2016.06.01-12.31; ; ; ; ; √
 EPAM Systems Kft.; 2014-06-26; 2017.10.18-12.31; ; ; ; ; √
 EPCOS Elektronikai Alkatrész Kft.; 2016-06-30; ; ; ; √; ; 
 EPCOS Elektronikai Alkatrész Kft.; 2017-03-20; ; √; ; ; ; 
+EPS-Connect International Zrt.; 2020-01-23; 2020. 02. 10-09. 30.; ; ; ; ; √
 Ernie-Cash Bt.; 2015-09-01; ; √; ; ; ; 
 ERP-TECH Kft.; 2020-02-17; 2020. 02. 17. - 06. 26.; ; ; ; ; √
 Erste Bank Hungary Zrt.; 2015-05-21; ; √; ; ; ; 
@@ -265,17 +277,20 @@ ESAB-Mór Kft.; 2017-01-23; ; √; ; ; ;
 Észak-zalai Víz és Csatornamü Zrt.; 2014-06-30; ; ; ; √; ; 
 Északdunántúli Vízmű Zrt.; 2015-05-11; ; ; ; √; ; 
 Eszterházy Károly Föiskola; 2014-06-18; ; ; ; √; ; 
+Eternal Business Kft.; 2021-02-08; 2021. 02. 15-05. 28.; ; ; ; ; √
 Euro Contour Kft.; 2014-09-23; ; √; ; ; ; 
 Euro Travel International Kft.; 2016-02-23; ; √; ; ; ; 
 Europ Assistance Magyarország Kft; 2020-01-27; 2020.01.29-05.14; ; ; ; ; √
 EuropTec Kft; 2017-06-06; ; ; ; √; ; 
 Eveprofessional Kft.; 2018-09-18; ; √; ; ; ; 
-EvonIT Consulting Kft.; 2020-08-31; 2020. 09. 01.-12. 31; ; ; ; ; √
+EvonIT Consulting Kft.; 2020-08-31; 2021. 01. 01-02. 28.; ; ; ; ; √
 evosoft Hungary Kft.; 2016-07-01; 2016.07.04-08.31; ; ; ; ; √
 Expedifer Információ- és Magánbiztonsági Kft.; 2017-05-26; ; ; ; √; ; 
 Expont Kft.; 2014-09-01; ; √; ; ; ; 
 ezTrade Solar Kft; 2017-06-05; ; √; ; ; ; 
+FALCO Zrt.; 2020-09-01; 2020. 09. 07-2021. 03. 31.; ; ; ; ; √
 Fastron Hungaria Kft.; 2015-05-18; ; ; ; √; ; 
+Fedex Express Hungary Kft.; 2020-09-30; 2020. 10. 01-2021. 04. 30.; ; ; ; ; √
 Fehérvár F.C. Kft.; 2015-02-16; ; √; ; ; ; 
 Fehérvár Travel; 2015-01-16; ; √; ; ; ; 
 Fehérvári Programszervező Kft.; 2017-12-20; ; √; ; ; ; 
@@ -283,6 +298,7 @@ Fehrer Hungaria Járműipari Kft; 2016-05-20; ; √; ; ; ;
 Fejér Megyei Kormányhivatal; 2015-07-07; ; ; ; ; √; 
 Fejér Megyei Rendőr-főkapitányság; 2015-08-25; ; √; ; ; ; 
 FEJÉRVÍZ Zrt.; 2014-06-16; ; ; ; √; ; 
+Felpécért Alapítvány; 2021-03-01; 2021. 03. 15-05. 21.; ; ; ; ; √
 FER-IT Kft.; 2020-09-04; 2020. 09. 15.-12. 20.; ; ; ; ; √
 Ferró-Trió Bt.; 2015-05-20; ; ; ; √; ; 
 Fevita Hungary Zrt.; 2015-06-23; ; √; ; ; ; 
@@ -308,7 +324,6 @@ Full Happy Kft; 2018-06-22; ; √; ; ; ;
 Fürge Diák Iskolaszövetkezet; 2017-02-05; ; √; ; ; ; 
 Galldorf Takarmánygyártó és Kereskedelmi Zrt.; 2015-07-15; ; √; ; ; ; 
 GE Hungary Kft; 2016-07-01; ; √; ; ; ; 
-GE Hungary Kft.; 2017-02-20; ; ; ; ; ; √
 GE Hungary Kft.; 2014-06-23; ; ; ; √; ; 
 GE Hungary Kft. Alkatrészgyár Zalaegerszeg; 2014-06-27; 2017.02.27-04.21; ; ; ; ; √
 Gelbmann Andrea ev.; 2018-05-22; ; √; ; ; ; 
@@ -320,7 +335,7 @@ Gépsystem Kft.; 2016-05-25; ; ; ; √; ;
 Gergely Balázs E.V.; 2018-11-29; 2020.01.29.-2020.05.15.; ; ; ; ; √
 Gestamp Hungária Kft.; 2019-07-03; ; ; ; √; ; 
 GIB Hungary Kft.; 2015-09-01; ; √; ; ; ; 
-GLI Solutions Kft.; 2016-03-31; 2020.01.29-06.15; ; ; ; ; √
+GLI Solutions Kft.; 2016-03-31; 2021. 03. 01-05. 17.; ; ; ; ; √
 Globo Kft.; 2020-08-31; 2020. 09. 01.-2021. 03. 01.; ; ; ; ; √
 GLOBULA Bt.; 2019-07-25; ; √; ; ; ; 
 GNSZ Tervező Kft.; 2015-07-01; ; √; ; ; ; 
@@ -340,6 +355,7 @@ Grundfos Magyarország Gyártó Kft.; 2014-07-07; 2014.07.07-08.15; ; ; ; ; √
 Gurit Hungary Kft.; 2016-08-01; ; √; ; ; ; 
 Gyenesdiási Közös Önkormányzati Hivatal; 2017-04-27; ; √; ; ; ; 
 Győr Projekt Kft.; 2018-06-30; ; √; ; ; ; 
+Győr-Sopron-Ebenfurti Vasút Zrt. / GYSEV Zrt.; 2020-06-10; 2020. 06. 15-08. 29.; ; ; ; ; √
 Győri Szeszgyár és Finomító Zrt.; 2015-07-06; ; ; ; √; ; 
 Gyuricza Gábor Oszkárné; 2019-02-22; ; √; ; ; ; 
 H-Multimédia Kft.; 2020-06-01; 2020. 06. 29. - 08. 31.; ; ; ; ; √
@@ -370,8 +386,10 @@ Herczeghalom Község Önkormányzata; 2016-02-03; ; ; ; ; √;
 Herendi Polgármesteri Hivatal; 2019-06-11; ; √; ; ; ; 
 Herendi Porcelánmanufaktúra Zrt.; 2017-06-23; ; √; ; ; ; 
 Herendi Porcelánmanufaktúra Zrt.; 2015-06-22; ; ; ; √; ; 
-Herendi Porcelánmanufaktúra Zrt.; 2015-05-22; 2015.06.01-08.31; ; ; ; ; √
-HIDROFILT Vízkezelést Tervező és Kivitelező Kft; 2015-06-17; ; ; ; √; ;
+Herendi Porcelánmanufaktúra Zrt.; 2015-05-22; 2020. 07. 06.-09. 13.; ; ; ; ; √
+Hévíz TDM Egyesület; 2016-02-03; ; ; ; ; ; 
+Hidrofilt Kft.; 2020-10-01; 2020. 10. 02-2021. 05. 31.; ; ; ; ; √
+HIDROFILT Vízkezelést Tervező és Kivitelező Kft; 2015-06-17; ; ; ; √; ; 
 Hirtenberger Automotive Safety Hungary Bt; 2015-09-14; ; √; ; ; ; 
 Holiday Club Füred Kft; 2016-06-14; ; √; ; ; ; 
 Honeywell Hőtechnikai Kft.; 2017-10-12; ; ; ; √; ; 
@@ -380,6 +398,7 @@ Horvát Nemzetiségi Önkormányzat; 2019-03-28; ; √; ; ; ;
 Horváth és Társai Kft.; 2016-06-15; ; √; ; ; ; 
 Horváth Tímea ev.; 2016-05-23; ; √; ; ; ; 
 Horváth Vendéglátó és Marketing Bt.; 2020-02-23; ; √; ; ; ; 
+Horváth Viktor EV.; 2021-01-11; 2021. 02. 01-05. 12.; ; ; ; ; √
 Hot-Ép Kft.; 2015-01-30; ; √; ; ; ; 
 Hotel Centrál Kft.; 2015-02-01; ; √; ; ; ; 
 Hotel Corso; 2015-06-19; ; √; ; ; ; 
@@ -409,22 +428,24 @@ IK Hotels Kft.; 2019-07-09; ; √; ; ; ;
 Ikarus Járműtechnikai Kft.; 2015-05-13; ; ; ; √; ; 
 Imprenta Nyomdaipari Kft.; 2016-06-23; ; √; ; ; ; 
 IMRO-DDKK Nonprofit Kft; 2015-12-31; ; √; ; ; ; 
+IMS Connector Systems Kft.; 2021-01-13; 2021. 02. 01-05. 14.; ; ; ; ; √
 IND.E Automatizálás Kft.; 2019-05-21; 2019.08.12-11.30; ; ; ; ; √
 Industrie Elektrik Kft.; 2017-06-01; ; √; ; ; ; 
 INFO-TECH DIGITAL Kft.; 2017-06-22; 2017.06.26-08.18; ; ; ; ; √
 InfoComplex Kft.; 2016-04-19; 2016.08.01-08.26; ; ; ; ; √
 Infornax Számítástechnikai Szövetkezet; 2017-05-13; 2020. 09. 01. - 12. 31.; ; ; ; ; √
+ingatlan.com Zrt.; 2020-11-17; 2021. 02. 01-03. 12.; ; ; ; ; √
 Innomed Medical Zrt.; 2015-06-08; 2015.06.22-12.31; ; ; ; ; √
 INOTAL Alumínium- és Salakfeldolgozó Zrt.; 2020-05-25; ; ; ; √; ; 
 INweb-Solutions Informatikai és szolgáltató Kft.; 2016-06-06; 2016.06.20-08.12; ; ; ; ; √
 Ipackchem Kft.; 2019-02-18; ; √; ; ; ; 
 IPT Kereskedelmi Kft; 2015-06-30; ; √; ; ; ; 
-iQor Global Services Hungary Kft.; 2019-06-24; ; ; ; ; ; √
+iQor Global Services Hungary Kft.; 2019-06-24; iQor Global Services Hungary Kft; ; ; ; ; √
 Ireks-Stamag Kft.; 2017-06-20; ; ; ; √; ; 
 Írottkő Hotel Kft.; 2017-09-25; ; √; ; ; ; 
 ISD DUNAFERR Dunai Vasmű Zrt.; 2016-06-10; ; ; ; √; ; 
 Isoquant Kft.; 2016-06-01; ; √; ; ; ; 
-IT Sense Kft.; 2019-07-01; 2019.07.01-09.01; ; ; ; ; √
+IT Sense Kft.; 2019-07-01; 2020. 06. 29.-08. 02.; ; ; ; ; √
 IT Services Hungary Kft.; 2016-07-19; 2016.07.19-09.13; ; ; ; ; √
 Ivanics Kft.; 2020-01-24; ; √; ; ; ; 
 Izsák-Kenyér Kft.; 2017-09-30; ; √; ; ; ; 
@@ -499,6 +520,7 @@ L.Z. Form Kft; 2018-04-20; ; √; ; ; ;
 Lafarge Cement Magyarország Kft; 2015-06-30; ; ; ; √; ; 
 Lajoskomárom Nagyközség Önkormányzata; 2015-05-11; ; √; ; ; ; 
 Laki Tech 2002 Kft.; 2018-02-23; ; √; ; ; ; 
+Lándori Dávid László ev.; 2020-09-21; 2020. 10. 01-12. 01.; ; ; ; ; √
 Lantech Kft.; 2020-08-14; 2020. 09. 07.-12. 31.; ; ; ; ; √
 Laposa Gasztro Kft; 2019-06-13; ; √; ; ; ; 
 Lasselberger-Knauf Kft.; 2016-05-26; 2017.09.11-11.03; ; ; ; ; √
@@ -517,6 +539,7 @@ Liget Gasztro Kft.; 2019-02-01; ; √; ; ; ;
 Liget Tér Bt.; 2019-01-23; ; √; ; ; ; 
 Linde Gáz Magyarország Zrt.; 2014-06-27; 2014.06.30-08.08; ; ; ; ; √
 Linde Gáz Magyarország Zrt.; 2016-05-18; ; ; ; √; ; 
+Line of Least Resistance Kft.; 2021-02-11; 2021. 02. 22-04. 21.; ; ; ; ; √
 Litéri Református Általános Iskola; 2019-04-04; ; √; ; ; ; 
 LNL Group Solutions Kft; 2018-05-28; 2018.06.04-07.27; ; ; ; ; √
 LOCARGO Nemzetközi Szállítmányozó és Logisztikai Kft; 2016-01-18; ; √; ; ; ; 
@@ -534,6 +557,8 @@ MagiCom Kft.; 2020-07-09; 2020. 07. 10. - 09. 04.; ; ; ; ; √
 Magicom Kft.; 2016-06-10; ; √; ; ; ; 
 Magyar Államkincstár; 2019-02-11; ; √; ; ; ; 
 Magyar Honvédség Egészségügyi Központ; 2016-05-30; ; ; ; √; ; 
+Magyar Honvédség Légi Műveleti Vezetési és Irányítási Központ; 2020-09-14; 2020. 10. 01.-11. 16.
+2021. 03. 11.-04. 16.; ; ; ; ; √
 Magyar Honvédség Rekreációs, Kiképzési és Konferencia Központ (MH RKKK); 2016-03-18; ; √; ; ; ; 
 Magyar Környezeti Nevelési Egyesület; 2016-05-26; ; ; ; √; ; 
 Magyar Közút NZRt; 2018-05-31; ; √; ; ; ; 
@@ -559,7 +584,8 @@ MÁV FKG Felépítménykarbantartó és Gépjavító Kft.; 2016-06-06; ; ; ; √
 MÁV Magyar Államvasutak Zrt.; 2019-05-13; ; ; ; √; ; 
 MÁV Szolgáltató Központ Zrt; 2015-05-25; ; √; ; ; ; 
 MÁV Vagon Kft; 2015-06-30; ; ; ; √; ; 
-maxon motor hungary Elektronikai Kft; 2016-02-26; 2020.06.29.-2020.08.21.; ; ; √; ; 
+maxon motor hungary Elektronikai Kft; 2016-02-26; ; ; ; √; ; 
+Maxon Motor Hungary Kft.; 2020-06-03; 2020. 06. 29.-08. 21.; ; ; ; ; √
 Mazzag Albert Ev.; 2019-04-02; ; ; ; √; ; 
 MCS Computer Kft.; 2015-04-17; 2015.07.06-08.28; ; ; ; ; √
 MEBARG KFT.; 2017-04-28; ; √; ; ; ; 
@@ -570,7 +596,8 @@ Mediaworks Hungary Zrt.; 2019-04-09; ; ; ; √; ;
 Medius Tours Kft; 2015-06-18; ; √; ; ; ; 
 Medius Tours Szolgáltató Kft.; 2019-07-01; ; √; ; ; ; 
 Melange Piac- és Közvélemény-kutató Iskolaszövetkezet; 2016-06-22; ; √; ; ; ; 
-Meló-Diák Észak-Dunántúl Iskolaszövetkezet; 2016-09-01; MIK: 2017.06.06-12.31; √; ; ; ; √
+Meló-Diák Dél Iskolaszövetkezet; 2020-08-21; MVMI Zrt. 2020. 09. 10-12. 15.; ; ; ; ; √
+Meló-Diák Észak-Dunántúl Iskolaszövetkezet; 2016-09-01; MIK: 2020. 11. 01-2021. 12. 31.; √; ; ; ; √
 MenDan Hotel Kft; 2020-01-27; ; √; ; ; ; 
 Menedzser 2000 Adp-és Közgazdasági Tanácsadó Kft.; 2019-12-20; ; √; ; ; ; 
 Menzam cultura Nonprofit Kft; 2014-07-11; ; √; ; ; ; 
@@ -636,6 +663,7 @@ Nestlé Hungária Kft.; 2020-08-24; 2020. 09. 09.-10. 21.; ; ; ; ; √
 Nestlé Hungária Kft.; 2017-01-16; ; √; ; ; ; 
 Netadex Zrt.; 2020-07-09; 2020. 07. 13. - 09. 07.; ; ; ; ; √
 NetHotelBooking Kft.; 2018-07-12; 2018.08.01-11.30; ; ; ; ; √
+Netta - Pannonia Kft.; 2020-09-14; 2020. 09. 17-2021. 05. 14.; ; ; ; ; √
 Neumann és Társa Gazdasági Szolgáltató Kft; 2018-01-14; ; √; ; ; ; 
 NH Hungary Szállodaüzemeltető Kft; 2015-06-29; ; √; ; ; ; 
 NHK Spring Hungary Kft.; 2019-05-31; ; ; ; √; ; 
@@ -654,19 +682,23 @@ Oiltech Kft; 2018-05-31; ; ; ; √; ;
 Oktatáskutató és Fejlesztő Intézet; 2015-09-01; ; √; ; ; ; 
 Oliva 2004 Kft.; 2019-01-29; ; √; ; ; ; 
 OOK-PRESS Kft.; 2019-02-08; ; √; ; ; ; 
-OPSWAT Kft.; 2015-06-16; 2020.02.01. - 12.31; ; ; ; ; √
+OPEL Szentgotthárd Kft.; 2015-06-05; 2015.06.29-08.21; ; ; ; ; 
+OPSWAT Kft.; 2015-06-16; 2021. 03. 01 - 12. 31.; ; ; ; ; √
 Opus Idegenforgalmi Kft.; 2015-04-01; ; √; ; ; ; 
 Opus LKG Iskolaszövetkezet; 2017-06-28; ; √; ; ; ; 
+Opus LKG Vállalkozásfejlesztő és Munkaszervező Iskolaszövetkezet; 2020-07-10; 2020. 07. 20.-08. 31.; ; ; ; ; √
 Orosházi Városüzemeltetési és Szolgáltató Zrt; 2020-01-09; ; √; ; ; ; 
 Oroszlányi Szakorvosi és Ápolási Intézet; 2016-04-19; ; √; ; ; ; 
 Országos Vízügyi Főigazgatóság; 2020-07-17; 2020. 07. 20. - 09. 21.; ; ; ; ; √
 OT Industries Vagyonkezelő Zrt.; 2017-02-01; ; √; ; ; ; 
 OT Industries Zrt; 2015-07-22; ; ; ; √; ; 
-OTP Bank Nyrt.; 2018-01-18; ; √; ; ; ;
+OTP Alapkezelő Zrt; 2015-07-01; ; ; ; ; ; 
+OTP Bank Nyrt.; 2018-01-18; ; √; ; ; ; 
 Öreg-Tó Club Hotel Kft; 2015-07-01; ; √; ; ; ; 
 Öskü Község Önkormányzata; 2015-02-16; ; √; ; ; ; 
 PA.PLAN Kft.; 2017-05-30; ; ; ; √; ; 
 Palkovics Trans Kft.; 2018-04-26; ; √; ; ; ; 
+Pánczél Attila e.v.; 2021-01-27; 2021. 02. 15-04. 26.; ; ; ; ; √
 Pannon Famulus Kft.; 2016-07-25; ; √; ; ; ; 
 Pannon Fejlesztési Alapítvány; 2017-06-30; ; ; ; √; ; 
 Pannon Lapok Társasága Kiadói Kft.; 2015-02-12; ; √; ; ; ; 
@@ -674,6 +706,7 @@ Pannon Mérnöki Iroda Kft.; 2019-09-27; ; ; ; √; ;
 Pannon Várszínház Nonprofit Kft; 2020-02-07; ; √; ; ; ; 
 Pannon-Comp Irodatechnikai Kft.; 2019-03-04; 2019.03.04-07.01; ; ; ; ; √
 PANNON-VIZ Zrt.; 2014-07-09; ; ; ; √; ; 
+Pannon-Work Iskolaszövetkezet; 2020-11-10; 2020. 11. 25-2021. 02. 03.; ; ; ; ; √
 Pannon-Work Iskolaszövetkezet; 2017-02-13; ; √; ; ; ; 
 Pannondiák Iskolaszövetkezet; 2017-02-22; ; √; ; ; ; 
 Pannonia Ethanol Zrt.; 2017-02-20; ; ; ; √; ; 
@@ -681,13 +714,16 @@ Pannonjob Kft.; 2018-06-11; ; √; ; ; ;
 Pannontej Zrt.; 2014-07-11; 2014.07.15-08.26; ; ; ; ; √
 Pantani Kft; 2015-07-01; ; √; ; ; ; 
 Pápai Víz- és Csatornamű Zrt.; 2016-04-12; ; ; ; √; ; 
+Paper Dog (Hungary) Kft.; 2021-01-13; 2021. 02. 01-04. 30.; ; ; ; ; √
 PAPST Hungary Kft.; 2016-05-05; ; ; ; √; ; 
 Payer Industries Hungary Kft; 2016-06-30; ; √; ; ; ; 
+Pelasta Kft.; 2021-02-19; 2021. 03. 22-05. 18.; ; ; ; ; √
 Pepe cukrászda Bt.; 2016-06-23; ; √; ; ; ; 
 Pepperl+Fuchs Fém- és Műanyagtechnikai Kft; 2016-02-02; ; √; ; ; ; 
 Peremartoni Fertilizers MűtrágyagyártóKft.; 2016-05-31; ; ; ; √; ; 
 PET-PACK Ipari és Kereskedelmi KFT; 2016-06-06; ; ; ; √; ; 
 Péti Nitrokomplex Kft.; 2015-06-15; ; √; ; ; ; 
+Petra & Mátis Creatives Kft.; 2021-03-12; 2021. 03. 16-05. 28.; ; ; ; ; √
 PETROLTERV Fővállalkozó és Tervező Kft.; 2020-05-19; ; ; ; √; ; 
 Petz Aladár Megyei Oktató Kórház; 2020-09-11; 2020. 09. 14-12.31; ; ; ; ; √
 Piac és Profit Kft.; 2018-01-16; ; √; ; ; ; 
@@ -697,6 +733,7 @@ PlasticArt Kft.; 2018-06-22; ; ; ; √; ;
 PLC TUNING KFT.; 2017-04-18; ; ; ; √; ; 
 Pogányszentpéter Község Önkormányzat; 2015-05-03; ; √; ; ; ; 
 Polányi Bt; 2018-06-11; ; √; ; ; ; 
+Poppe + Potthoff Hungária Kft.; 2020-09-14; 2020. 09. 21.-11. 16.; ; ; ; ; √
 Poppe + Potthoff Hungária Kft.; 2015-06-22; ; ; ; ; ; √
 Poppe+Potthoff Hungária Kft.; 2019-01-17; 2019.06.12-12.31; √; ; ; ; 
 Porabje Kft.; 2017-02-23; ; √; ; ; ; 
@@ -712,6 +749,7 @@ Process Solutions Kft.; 2015-06-18; ; √; ; ; ;
 Procord Technology Kft; 2020-01-06; 2020.02.03-03.27; ; ; ; ; √
 Prodiák Iskolaszövetkezet; 2015-02-11; ; √; ; ; ; 
 Prodiák Iskolaszövetkezet; 2017-06-06; 2017.06.06-12.31; ; ; ; ; √
+Prodosoft Kft.; 2021-02-26; 2021. 03. 16-05. 11.; ; ; ; ; √
 Promera Menedzsment Kft.; 2015-08-03; 2020.01.02.-2020.12.31.; ; ; ; ; √
 PureAqua Kft.; 2016-07-18; ; ; ; √; ; 
 Pylon-94 Gép- és Acélszerkezetgyártó Kft; 2018-03-29; ; ; ; √; ; 
@@ -740,10 +778,12 @@ Rózsa Panzió; 2019-02-18; ; √; ; ; ;
 RTI Engineering Kft.; 2014-06-26; 2014.07.01-08.22; ; ; ; ; √
 Rubina Sándor EV.; 2015-06-24; 2015.06.29-08.26; ; ; ; ; √
 RUEFA REISEN Utazási Iroda; 2016-11-15; ; √; ; ; ; 
+Rufftech Kft.; 2021-02-05; 2021. 02. 08-05. 21.; ; ; ; ; √
 S.I.55 Kft; 2015-02-09; ; √; ; ; ; 
 S&T Consulting Hungary Kft.; 2020-05-21; 2020.05.21.-2020.12.31.; ; ; ; ; √
 SÁHÓ Fémforg Kft; 2015-06-10; ; ; ; √; ; 
 Sajin Szolgáltató Kft.; 2020-06-29; 2020. 07. 01.-09. 30.; ; ; ; ; √
+SAP Hungary Kft.; 2021-01-05; 2021. 01. 05-; ; ; ; ; √
 Sapa Profiles Kft.; 2016-01-01; ; ; ; ; ; √
 Sapa Profiles Kft.; 2016-06-17; ; √; ; ; ; 
 Sárvári Gyógyfürdő Kft.; 2014-07-01; ; √; ; ; ; 
@@ -759,6 +799,7 @@ SCITEC Ipari és Kereskedelmi Kft.; 2017-04-03; ; ; ; √; ;
 SeaCon Europe Kft.; 2019-06-17; 2019.06.24-09.07; ; ; ; ; √
 Sebestyén és Társa Kft.; 2018-01-31; ; √; ; ; ; 
 Secudit Kft.; 2017-08-07; 2020. 06. 02-12. 31.; ; ; ; ; √
+Sense/Net Zrt.; 2020-07-16; 2020. 08. 04-09. 15.; ; ; ; ; √
 Sere'S Vendéglő Iregszemcse; 2015-12-21; ; √; ; ; ; 
 Sertec Auto Structures Hungary Bt.; 2017-05-29; ; ; ; √; ; 
 SEWS Komponens és Elektronika Európa Kft.; 2016-06-23; ; √; ; ; ; 
@@ -776,6 +817,7 @@ SIÓ-VNH Kft; 2015-08-20; ; √; ; ; ;
 Siófoki Közös Önkormányzati Hivatal; 2019-05-30; ; √; ; ; ; 
 Siroma-Plast Műanyagipari Kft.; 2017-05-16; ; ; ; √; ; 
 SKS szerszámkészítő Kft; 2015-05-13; ; ; ; √; ; 
+Smart Informatika Kft.; 2021-02-05; 2021. 02. 08-05. 20.; ; ; ; ; √
 Smarter Digital Kft.; 2018-01-25; 2018.02.01-03.29; ; ; ; ; √
 Sol Tours Kft.; 2017-01-24; ; √; ; ; ; 
 Solar Generation Kft.; 2019-07-11; 2019.07.22-09.02; ; ; ; ; √
@@ -790,6 +832,7 @@ Sportváros Nonprofit Kft.; 2019-02-04; ; √; ; ; ;
 Starlight Suites Kft; 2015-05-12; ; √; ; ; ; 
 Sterling Fluid System Hungária Kft.; 2014-06-30; ; ; ; √; ; 
 Strabag Általános Építő Kft.; 2016-09-05; ; √; ; ; ; 
+Strabag Építő Kft.; 2020-10-02; 2020. 10. 05-2021. 05. 29.; ; ; ; ; √
 SUEZ Water Technologies & Solutions Hungary Kft.; 2019-07-01; ; √; ; ; ; 
 SW Szállodaüzemeltető Kft.; 2016-06-28; ; √; ; ; ; 
 Syncreon Hungary Logisztikai és Szállítási Kft; 2017-05-03; ; √; ; ; ; 
@@ -807,9 +850,10 @@ Szentkirályi-Kékkuti Ásványvíz Kft.; 2019-06-27; ; √; ; ; ;
 Szentkirályi-Kékkúti Ásványvíz Kft.; 2017-02-28; ; √; ; ; ; 
 Szépalma-Hotel Kft; 2016-02-01; ; √; ; ; ; 
 SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Kft.; 2016-07-13; ; √; ; ; ; 
-SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt.; 2020-06-22; 2020. 07. 06. - 07. 31.; ; ; ; ; √
+SZÉPHŐ Székesfehérvári Épületfenntartó és Hőszolgáltató Zrt.; 2020-06-22; 2020. 10. 15.-12. 21.; ; ; ; ; √
 Szigligeti Közös Önkormányzati Hivatal; 2016-02-01; ; √; ; ; ; 
 Szilvórium Bt.; 2018-04-25; ; ; ; √; ; 
+Szintézis Informatikai Zrt.; 2020-10-13; 2020. 10. 26.-2021. 05. 31.; ; ; ; ; √
 Szociális és Gyermekvédelmi Főigazgatóság; 2017-07-06; ; √; ; ; ; 
 Szoftverdesign Kft.; 2015-06-22; 2015.07.01-08.24; ; ; ; ; √
 T+F Kft.; 2017-07-07; ; √; ; ; ; 
@@ -818,6 +862,7 @@ Talentum Kft.; 2016-10-03; ; √; ; ; ;
 Tamási Közétkeztetési Nonprofit Kft.; 2015-05-04; ; √; ; ; ; 
 Tapolca Kft.; 2019-10-22; ; √; ; ; ; 
 Tapolca Város Önkormányzata; 2016-04-28; ; √; ; ; ; 
+Tarr Kft.; 2021-01-20; 2021. 02. 01-05. 13.; ; ; ; ; √
 TC InformatikaKft.; 2015-07-31; 2015.08.03-2016.04.30; ; ; ; ; √
 Techno-Víz Laboratóriumi és Mérnökszolgálati Kft; 2016-02-12; ; ; ; √; ; 
 Tentacle Kft.; 2017-11-13; 2017.11.13-2018.06.30; ; ; ; ; √
@@ -849,6 +894,7 @@ TRILAK Festékgyártó Kft.; 2014-06-17; ; ; ; √; ;
 Tripla K Kft.; 2014-06-30; ; √; ; ; ; 
 Trium-iTech Zrt.; 2019-05-10; 2019.06.11-08.31; ; ; ; ; √
 Trombitás Kft; 2014-07-01; ; √; ; ; ; 
+Tungsram Operations Kft.; 2020-09-09; 2020. 09. 14.-2021. 05. 14.; ; ; ; ; √
 Tungsram Operations Kft.; 2019-04-25; 2019.05.20-07.15; ; ; ; ; √
 Tutti Élelmiszeripari Kft.; 2017-06-16; ; ; ; √; ; 
 Tutti-Kettős Könyvelés Kft; 2015-02-12; ; √; ; ; ; 
@@ -876,7 +922,9 @@ Valeo Siemens eAutomotive Hungary Kft.; 2020-08-31; 2020. 09. 14-11. 13.; ; ; ; 
 Vanderlich Nonprofit Kft; 2014-12-03; ; √; ; ; ; 
 Városi Nyilvánosságért Alapítvány; 2018-04-26; ; √; ; ; ; 
 Városliget Zrt.; 2019-06-14; ; √; ; ; ; 
+Vas Megyei Katasztrófavédelmi Igazgatóság; 2020-09-22; 2020. 10. 01.-12. 31.; ; ; ; ; √
 Vas Megyei Katasztrófavédelmi Igazgatóság; 2014-07-10; ; ; ; √; ; 
+Vas Megyei Szakképzési Centrum Nádasdy Tamás Technikum és Kollégium; 2020-11-26; 2020. 12. 07-2021. 06. 15.; ; ; ; ; √
 VASIVÍZ Zrt.; 2014-06-27; 2016.07.04-09.02; ; ; ; ; √
 Ve-Ka-Da KFT.; 2020-02-24; ; √; ; ; ; 
 Vemsoft Kft.; 2020-06-19; 2020. 06. 19. - 08. 28.; ; ; ; ; √
@@ -887,10 +935,11 @@ Vértesi Környezetgazdálkodási Kft.; 2018-06-06; ; ; ; √; ;
 VERTIKÁL VKSZ Vagyonkezelő Zrt.; 2015-08-31; ; √; ; ; ; 
 VESZ-MONT '2000 Kft.; 2014-07-09; ; ; ; √; ; 
 VESZ-MONT '2000 Szereléstechnikai és Gépipari Kft.; 2016-12-29; ; √; ; ; ; 
-VESZ-MONT'2000 Szereléstechnikai és Gépipari Kft.; 2015-06-15; 2019.06.11-08.31; ; ; ; ; √
+VESZ-MONT'2000 Szereléstechnikai és Gépipari Kft.; 2015-06-15; 2020. 10. 20-2021. 03. 26.; ; ; ; ; √
 Veszprém Kosárlabda Kft.; 2018-01-12; ; √; ; ; ; 
 Veszprém Megyei Jogú Város Polgármesteri Hivatala; 2016-02-10; ; √; ; ; ; 
 Veszprém Megyei Kézilabda Szövetség; 2016-02-01; ; √; ; ; ; 
+Veszprém Megyei Kormányhivatal; 2021-02-04; 2021. 02. 08-05. 20.; ; ; ; ; √
 Veszprém Megyei Kormányhivatal; 2015-07-03; ; ; ; √; ; 
 Veszprém Megyei Kormányhivatal; 2017-06-30; ; √; ; ; ; 
 Veszprémi Evangélikus Egyházközösség; 2016-06-27; 2016.07.04-08.26; ; ; ; ; √
@@ -924,6 +973,7 @@ WEB200 Internet Média Kft.; 2020-06-18; 2020. 07. 01. - 08. 27.; ; ; ; ; √
 Webfair Kft.; 2019-07-17; 2019.08.05-09.30; ; ; ; ; √
 Webgarden Kft.; 2020-09-03; 2020. 09. 07.-12. 04.; ; ; ; ; √
 Weboptim Kft.; 2019-07-01; ; √; ; ; ; 
+WebOrigo Magyarország Zrt.; 2020-11-13; 2020. 11. 13-2021. 12. 31.; ; ; ; ; √
 Wellamarin Kft.; 2015-05-15; ; √; ; ; ; 
 Wessling Hungary Kft; 2018-06-08; ; ; ; √; ; 
 West Hotel Kft; 2016-01-29; ; √; ; ; ; 
@@ -935,11 +985,12 @@ Xellia Gyógyszervegyészeti Kft.; 2020-05-19; ; ; ; √; ;
 XELLIA Gyógyszervegyészeti Korlátolt Felelősségű Társaság; 2017-06-30; ; ; ; √; ; 
 XING LONG Kft.; 2017-01-03; ; √; ; ; ; 
 Yanfeng Hungary Automotive Interior Systems Kft.; 2017-03-16; ; √; ; ; ; 
+Ynet Kft.; 2021-02-03; 2021. 02. 08-05. 21.; ; ; ; ; √
 Z.I.P. Hotel Ingatlanhasznosító Kft.; 2019-02-01; ; √; ; ; ; 
 Zala Megyei Kormányhivatal; 2020-07-01; 2020. 07. 06. - 08. 28.; ; ; ; ; √
 Zala Megyei Kormányhivatal; 2016-01-04; 2016.01.04-02.26; ; ; ; ; √
 Zala-Kraft Kft.; 2017-05-30; ; √; ; ; ; 
-Zalaegerszegi Szakképzési Centrum; 2020-08-25; 2020. 09. 01.-12. 31.; ; ; ; ; √
+Zalaegerszegi Szakképzési Centrum; 2020-08-25; 2021. 01. 01-05. 21.; ; ; ; ; √
 Zalaegerszegi Turisztikai Hivatal és Információs Iroda; 2015-06-16; ; √; ; ; ; 
 Zalagrár Mezőgazdasági Termelő Kft; 2019-04-08; ; √; ; ; ; 
 Zalakarosi Fürdő Zrt; 2019-06-17; ; ; ; √; ; 
